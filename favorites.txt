@@ -1,3 +1,10 @@
+Foods:
 tacos
 pizza
 köttbullar
+
+Movies:
+lotr
+lotr 2
+lotr 3
+
